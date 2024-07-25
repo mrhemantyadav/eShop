@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Dot Net\\ASP .Net\\Project\\EShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83637258-0E64-461A-B854-1D60624F97A1}|EShop.csproj|d:\\programming\\dot net\\asp .net\\project\\eshop\\admin_dash\\addsubcategory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83637258-0E64-461A-B854-1D60624F97A1}|EShop.csproj|solutionrelative:admin_dash\\addsubcategory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddSubCategory.aspx.cs",
+              "DocumentMoniker": "D:\\Programming\\Dot Net\\ASP .Net\\Project\\EShop\\Admin_dash\\AddSubCategory.aspx.cs",
+              "RelativeDocumentMoniker": "Admin_dash\\AddSubCategory.aspx.cs",
+              "ToolTip": "D:\\Programming\\Dot Net\\ASP .Net\\Project\\EShop\\Admin_dash\\AddSubCategory.aspx.cs",
+              "RelativeToolTip": "Admin_dash\\AddSubCategory.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:53:54.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
